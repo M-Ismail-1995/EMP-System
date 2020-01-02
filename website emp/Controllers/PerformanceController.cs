@@ -16,6 +16,7 @@ namespace website_emp.Controllers
         public ActionResult SubModule1()
         {
             return View();
+
         }
         public ActionResult Submodule2()
         {
